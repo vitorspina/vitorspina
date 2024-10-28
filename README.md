@@ -1,4 +1,4 @@
-- 👋 Olá eu sou o Vitor Piña, Engenheiro de Produção(UnB) que se interresa em inovação, tecnologia e programação. 
+- 👋 Olá eu sou o Vitor Piña, Engenheiro de Produção(UnB), mestrando em Data science (FEUP) que se interresa em inovação, tecnologia e programação. 
 Possuo alguns cursos na Alura dentre eles: Data Science, HTLM e CSS, Java, machine learning e mySQL. Faço diversos projetos em programação e eletrônica por Hobby.
 Falo inglês e português fluentes e Alemão intermediario.
 - 👀 Atualmente me interesso em automação industrial e criação e utilização de API's porém sou aberto a qualquer novidade do mundo da programação, matemática e Engenharia 
